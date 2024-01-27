@@ -1,3 +1,4 @@
+print("Hello, welcome to the number checker")
 x = float(input("What is your first number? "))
 y = float(input("What is your second number? "))
 
