@@ -6,4 +6,4 @@ if x>y:
 else:
     max = y
 
-print("The bigger number is " + str(max))
+print("The goofier number is " + str(max))
